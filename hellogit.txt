@@ -1,3 +1,4 @@
 hello git
 这是用户B新增的内容--版本3
 first edit
+这是用户A新增的内容--版本3
